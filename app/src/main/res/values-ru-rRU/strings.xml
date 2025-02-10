@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">propoland</string>
+        <string name="work_title">Работа</string>
+        <string name="university_title">Студенты</string>
+        <string name="business_title">Деловая активность</string>
+        <string name="family_title">Семья</string>
+        <string name="eu_blue_card_title">Синяя карта ЕС</string>
+        <string name="pesel_title">Временное пребывание для владельцев PESEL UKR</string>
+        <string name="citizenship_title">Гражданство</string>
+        <string name="eu_residence_card_title">EU Карта резидента</string>
+
+        <!-- Для наших услуг -->
+        <string name="cv_title">Резюме</string>
+        <string name="accounting_title">Бухгалтерия</string>
+        <string name="job_offers_title">Вакансии</string>
+        <string name="polish_language_learning_title">Изучение польского языка</string>
+        <string name="help_in_filling_out_documents_title">Помощь в заполнении документов</string>
+        <string name="rental_housing_title">Аренда жилья</string>
+
+    <string name="chat_bot_title">чат</string>
+
+    <string name="residence_permit_section_title">внж</string>
+    <string name="default_button_text">перейти</string>
+
+
+    <string name="blue_card_instructions_title">Инструкция по Blue Card</string>
+    <string name="contact_button">Контакты</string>
+    <string name="download_pdf_button">Скачать PDF</string>
+    <string name="blue_card_instructions">Для оформления Blue Card (Синей карты) необходимо:</string>
+    <string name="blue_card_documents">
+        - Паспорт\n
+        - Контракт на работу с минимальной зарплатой, соответствующей требованиям\n
+        - Документы об образовании, подтверждающие квалификацию\n
+        - Заявление на получение Blue Card
+    </string>
+    <string name="blue_card_ensure">Убедитесь, что у вас есть все необходимые документы перед подачей заявления.</string>
+
+    <string name="business_instructions_title">Инструкция по бизнесу</string>
+    <string name="business_instructions">Для оформления бизнеса в Польше необходимо:</string>
+    <string name="business_documents">
+        - Паспорт\n
+        - Заявление на регистрацию компании\n
+        - План бизнес-деятельности\n
+        - Документы, подтверждающие наличие капитала
+    </string>
+    <string name="business_ensure">Убедитесь, что все документы собраны перед подачей заявления.</string>
+
+    <string name="download_pdf_button_business">Скачать PDF</string>
+    <string name="download_instruction_button">Инструкция</string>
+
+
+        <string name="citizenship_instructions_title">Инструкция по гражданству</string>
+        <string name="citizenship_instructions">
+        Для получения гражданства Польши необходимо:
+        - Заявление на получение гражданства
+        - Паспорт
+        - Подтверждение легального проживания в Польше минимум 3 года
+        - Документы, подтверждающие знание польского языка
+        Убедитесь, что все документы собраны перед подачей заявления.
+    </string>
+
+        <string name="download_pdf_button_citizenship">Скачать PDF</string>
+
+    <string name="cv_page_title">Польский CV Writing Service – Выделитесь среди работодателей!</string>
+    <string name="cv_description">
+        Хотите устроиться на работу в Польше, но вам нужен профессионально написанный CV на польском языке?
+        Наша экспертная команда создаст качественное резюме, которое удовлетворяет требования польских работодателей.
+
+        Почему стоит выбрать нашу услугу написания CV?
+        ✅ Профессионально составленное CV на польском языке, адаптированное под вашу отрасль
+        ✅ Оптимизированный формат для увеличения шансов на успех при подаче заявки
+        ✅ Быстрые сроки выполнения — получите CV в кратчайшие сроки
+        ✅ Индивидуальная поддержка от наших специалистов
+
+        Для заказа польского CV просто нажмите на кнопку Viber или WhatsApp и отправьте нам сообщение.
+        Наша команда готова помочь вам!
+    </string>
+    <string name="whatsapp_button">WhatsApp</string>
+    <string name="facebook_button">Facebook</string>
+
+
+    <string name="eu_residence_title">Инструкция по карте резидента ЕС</string>
+    <string name="eu_residence_description">
+        Для получения карты резидента ЕС необходимо:
+        - Паспорт
+        - Подтверждение проживания в Польше минимум 5 лет
+        - Подтверждение стабильного дохода
+        - Доказательства наличия жилья
+
+        Убедитесь, что все документы собраны перед подачей заявления.
+    </string>
+
+    <string name="instructions_button">Инструкция</string>
+    <string name="download_pdf_button_eu_residence">Скачать PDF</string>
+
+
+        <string name="family_instruction_title">Инструкция по семейному основанию</string>
+        <string name="family_instruction_text">
+        Для подачи документов по семейному основанию необходимо:
+        - Свидетельство о браке
+        - Паспорт заявителя и члена семьи
+        - Доказательство совместного проживания
+        - Документы, подтверждающие финансовую стабильность
+
+        Убедитесь, что все документы собраны перед подачей заявления.
+    </string>
+
+        <string name="instructions_button_family">Инструкция</string>
+        <string name="download_pdf_button_family">Скачать PDF</string>
+
+
+        <string name="pesel_instruction_title">Инструкция по PESEL UKR</string>
+        <string name="pesel_instruction_text">
+        Для оформления PESEL UKR вам необходимо:
+        - Паспорт или документ, подтверждающий личность
+        - Заявление на оформление PESEL
+        - Документы, подтверждающие ваш статус
+
+        Убедитесь, что у вас есть все необходимые документы перед подачей заявки.
+    </string>
+
+        <string name="download_pdf_button_pesel">Скачать PDF</string>
+
+
+
+        <string name="job_offers_text">
+        На этой странице вы можете найти вакансии и предложения работы. Следуйте инструкциям для подачи заявки.
+    </string>
+
+
+    <string name="pit11_description">
+        Здесь вы можете загрузить и оформить вашу PIT-11 декларацию. Просто следуйте инструкциям и загрузите документ.
+    </string>
+
+    <string name="rental_housing_description">
+    Ищете лучшие варианты аренды жилья? Присоединяйтесь к нам, чтобы найти широкий выбор предложений. Найдите свой идеальный дом уже сегодня!
+</string>
+
+
+        <string name="contact_us">Заказать внесек</string>
+        <string name="contacts">Контакты</string>
+        <string name="university_instructions">Для подачи университетских документов необходимо:
+
+        Документы, необходимые для получения печати  в паспорт (так называемые формальные требования):
+    Заявление в 1 экземпляре - заполните электронный бланк заявления в Модуле обслуживания документации(внешняя ссылка) или заполните заявление согласно инструкции
+    4 фотографии,
+    копия действительного паспорта (оригинал для проверки). В особых случаях, когда у иностранца нет действительного паспорта и нет возможности его получить, он может представить другой документ подтверждающий личность.
+    Также, следует предъявить подтверждение оплаты гербового сбора.
+
+        </string>
+
+
+        <string name="university_instructions_title">Инструкция для студентов</string>
+
+        <string name="download_pdf_university">Скачать PDF</string>
+
+
+    <string name="work_instructions">Для подачи на временное разрешение на работу вам необходимо:
+    Заявление в 1 экземпляре - заполните электронный бланк заявления в Модуле обслуживания документации(внешняя ссылка) или заполните заявление согласно инструкции
+
+4 фотографии,
+
+копия действительного паспорта (оригинал для проверки). В особых случаях, когда у иностранца нет действительного паспорта и нет возможности его получить, он может представить дрогой документ подтверждающий личность.
+
+Приложение № 1 к заявлению, заполненное Вашим работодателем и подписанное уполномоченным лицом.
+
+Также, следует предъявить подтверждение оплаты гербового сбора.
+
+
+    </string>
+
+
+
+
+
+
+    <string name="download_pdf_button_work">Скачать PDF</string>
+
+    <string name="back_button">Назад</string>
+    <string name="submit_button">Отправить</string>
+    <string name="how_can_i_help">Как я могу вам помочь сегодня?</string>
+
+
+
+</resources>
+
+
+

@@ -1,0 +1,180 @@
+<resources>
+<string name="app_name">propoland</string>
+        <string name="work_title">Work</string>
+        <string name="university_title">University graduates</string>
+        <string name="business_title">Business activity</string>
+        <string name="family_title">Family</string>
+        <string name="eu_blue_card_title">EU Blue Card</string>
+        <string name="pesel_title">Temporary stay for PESEL UKR holders</string>
+        <string name="citizenship_title">Citizenship</string>
+        <string name="eu_residence_card_title">EU Residence Card</string>
+
+        <!-- Для наших услуг -->
+        <string name="cv_title">CV</string>
+        <string name="accounting_title">Accounting</string>
+        <string name="job_offers_title">Job offers</string>
+        <string name="polish_language_learning_title">Polish language learning</string>
+        <string name="help_in_filling_out_documents_title">Help in filling out documents</string>
+        <string name="rental_housing_title">Rental housing</string>
+
+    <string name="chat_bot_title">chat</string>
+    <string name="residence_permit_section_title">residence permit</string>
+    <string name="default_button_text">go</string>
+
+
+
+    <string name="blue_card_instructions_title">Blue Card Instructions</string>
+    <string name="contact_button">Contact</string>
+    <string name="download_pdf_button">Download PDF</string>
+    <string name="blue_card_instructions">To apply for Blue Card you need:</string>
+    <string name="blue_card_documents">
+        - Passport\n
+        - Employment contract with a minimum salary matching the requirements\n
+        - Education documents confirming qualifications\n
+        - Application for Blue Card
+    </string>
+    <string name="blue_card_ensure">Make sure you have all the necessary documents before submitting the application.</string>
+
+        <string name="business_instructions_title">Business Instructions</string>
+        <string name="business_instructions">To start a business in Poland, you need:</string>
+        <string name="business_documents">
+        - Passport\n
+        - Company registration application\n
+        - Business plan\n
+        - Documents confirming capital availability
+    </string>
+        <string name="business_ensure">Make sure all necessary documents are collected before submitting the application.</string>
+
+        <string name="download_pdf_button_business">Download PDF</string>
+        <string name="download_instruction_button">Instruction</string>
+
+
+        <string name="citizenship_instructions_title">Citizenship Instructions</string>
+        <string name="citizenship_instructions">
+        To obtain Polish citizenship, you need:
+        - Citizenship application
+        - Passport
+        - Proof of legal residence in Poland for at least 3 years
+        - Documents proving knowledge of the Polish language
+        Make sure all necessary documents are collected before submitting the application.
+    </string>
+
+        <string name="download_pdf_button_citizenship">Download PDF</string>
+
+    <string name="cv_page_title">Polish CV Writing Service – Get Noticed by Employers!</string>
+    <string name="cv_description">
+        Looking to apply for jobs in Poland but need a professionally written CV in Polish?
+        Our expert team will create a high-quality, ATS-friendly resume that meets Polish employer expectations.
+
+        Why Choose Our CV Writing Service?
+        ✅ Professionally crafted Polish-language CV tailored to your industry
+        ✅ Optimized format to increase job application success
+        ✅ Fast turnaround time – receive your CV quickly
+        ✅ Personalized support from our specialists
+
+        To order your Polish CV, simply click the Viber or WhatsApp button and send us a message.
+        Our team is ready to assist you!
+    </string>
+    <string name="whatsapp_button">WhatsApp</string>
+    <string name="facebook_button">Facebook</string>
+
+
+    <string name="eu_residence_title">EU Residence Card Instructions</string>
+    <string name="eu_residence_description">
+        To apply for the EU Residence Card, you need:
+        - Passport
+        - Proof of residence in Poland for at least 5 years
+        - Proof of stable income
+        - Proof of housing
+
+        Ensure you have all the necessary documents before applying.
+    </string>
+
+    <string name="instructions_button">Instructions</string>
+    <string name="download_pdf_button_eu_residence">Download PDF</string>
+
+
+
+        <string name="family_instruction_title">Инструкция по семейному основанию</string>
+        <string name="family_instruction_text">
+        Для подачи документов по семейному основанию необходимо:
+        - Свидетельство о браке
+        - Паспорт заявителя и члена семьи
+        - Доказательство совместного проживания
+        - Документы, подтверждающие финансовую стабильность
+
+        Убедитесь, что все документы собраны перед подачей заявления.
+    </string>
+
+        <string name="instructions_button_family">Инструкция</string>
+        <string name="download_pdf_button_family">Скачать PDF</string>
+
+
+
+        <string name="pesel_instruction_title">PESEL UKR Instructions</string>
+        <string name="pesel_instruction_text">
+        To apply for PESEL UKR, you need:
+        - Passport or identification document
+        - Application for PESEL registration
+        - Documents confirming your status
+
+        Make sure you have all the necessary documents before applying.
+    </string>
+
+        <string name="download_pdf_button_pesel">Download PDF</string>
+
+
+
+        <string name="job_offers_text">
+        On this page, you can find job vacancies and offers. Follow the instructions to apply.
+    </string>
+
+    <string name="pit11_description">
+        Here you can download and fill out your PIT-11 declaration. Simply follow the instructions and upload the document.
+    </string>
+
+
+    <string name="rental_housing_description">
+    Looking for the best rental housing options? Join us to discover a wide range of rental offers tailored to your needs. Find your perfect home today!
+</string>
+
+
+
+        <string name="contact_us">Order residence permit fill form</string>
+        <string name="contacts">Contact Us</string>
+        <string name="university_instructions">To apply for university documents, you need the following:
+
+        Documents required to obtain a stamp in your passport (i.e. formal requirements)
+Application form - fill in the on-line application (link is external)or fill in the application in accordance with the instructions in 1 copy (application to be downloaded).
+4 photographs,
+A photocopy of a valid travel document (the original for inspection), in a particularly justified case, when a you do not have a valid travel document and you are not able to obtain one, you may present another document confirming yourr identity.
+To begin the proceedings you need to deliver also the confirmation of the payment of stamp duty.
+
+        </string>
+
+        <string name="university_instructions_title">University Instructions</string>
+
+        <string name="download_pdf_university">Download PDF</string>
+
+    <string name="work_instructions">
+        Application form - fill in the on-line application (link is external)or fill in the application in accordance with the instructions in 1 copy (application to be downloaded).
+4 photographs,
+A photocopy of a valid travel document (the original for inspection), in a particularly justified case, when you do not have any valid travel document and you are not able to obtain one, you may present another document confirming your identity.
+Annex No 1 (download here) to the application for the temporary residence permit should be fully completed and signed by an employer or a person authorised for representation of a company.
+
+To start the proceedings you also need the confirmation of the stamp duty payment.
+
+    </string>
+
+    <string name="download_pdf_button_work">Download PDF</string>
+
+
+    <string name="back_button">Back</string>
+    <string name="submit_button">Submit</string>
+    <string name="how_can_i_help">How can I help you today?</string>
+
+
+
+
+
+</resources>

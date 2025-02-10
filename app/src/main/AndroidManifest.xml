@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProPolandLadyBug"
+        tools:targetApi="31">
+        <activity
+            android:name=".ui.components.ChatActivity"
+            android:theme="@style/Theme.MaterialComponents.DayNight"/>
+        <activity android:name=".ui.components.activities.WorkActivity" />
+        <activity android:name=".ui.components.activities.UniversityActivity" />
+        <activity android:name=".ui.components.activities.PeselActivity" />
+        <activity android:name=".ui.components.activities.FamilyActivity" />
+        <activity android:name=".ui.components.activities.EUResidenceActivity" />
+        <activity android:name=".ui.components.activities.CitizenshipActivity" />
+        <activity android:name=".ui.components.activities.BusinessActivity" />
+        <activity android:name=".ui.components.activities.BlueCardActivity" />
+
+        <activity android:name=".ui.components.activities.CVActivity" />
+        <activity android:name=".ui.components.activities.PIT11Activity" />
+        <activity android:name=".ui.components.activities.JobOffersActivity" />
+        <activity android:name=".ui.components.activities.HelpInFillingOutDocumentsActivity" />
+        <activity android:name=".ui.components.activities.TranslationAssistanceActivity" />
+        <activity android:name=".ui.components.activities.RentalHousingActivity" />
+
+
+
+
+
+
+
+
+        <!-- другие атрибуты -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.ProPolandLadyBug">
+
+
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
