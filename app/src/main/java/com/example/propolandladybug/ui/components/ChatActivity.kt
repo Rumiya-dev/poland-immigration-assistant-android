@@ -198,7 +198,8 @@ class ChatActivity : AppCompatActivity() {
 
         if (sharedPreferences.getString("apiKey", null) == null) {
             sharedPreferences.edit().apply {
-                putString("apiKey", "") // Use your actual API key
+                putString("apiKey", "YOUR_OPENAI_API_KEY_HERE\n" +
+                        "\n") // Use your actual API key
                 apply()
             }
         }
